@@ -1,7 +1,7 @@
 # GastroRestoCloudWeb 🚀
 
 **GastroRestoCloud** is a professional management solution for the gastronomic industry, designed to provide full control over restaurant operations. This project uses **Angular 20+** with a modern, high-performance tech stack.
-
+mis bules
 ---
 
 ## 🛠️ Technology Stack
